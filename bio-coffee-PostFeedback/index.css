@@ -1,0 +1,213 @@
+html{
+  font-family: "Open Sans", sans-serif;
+}
+
+body{
+  margin: 0px;
+}
+
+
+/* Header */
+.header-text{
+  font-family: "DM Serif Display", sans-serif;
+  color: white;
+  height: 100vh;
+  text-align: left;
+}
+
+.header-text1{
+  font-size: 35px;
+  font-weight: bold;
+  margin: 0px auto 0px 50px;
+  padding-top: 130px;
+}
+
+.header-text2{
+  font-size: 25px;
+  margin-top: 0px;
+  margin-left: 90px;
+}
+
+
+/* Main */
+.middle-text{
+  text-align: center;
+  margin: 150px 150px;
+  border-left: double 7px brown;
+  border-right: double 7px brown;
+}
+
+.middle-text h1{
+  font-family: "DM Serif Display", sans-serif;
+}
+
+.middle-text p{
+  font-size: 23px;
+  margin-top: 50px;
+}
+
+.kilimanjaro{
+  background-color:rgba(255,255,255,0.7);
+  background-blend-mode:lighten;
+  color: black;
+  min-height: 100vh;
+}
+
+.blueMountain{
+  background-color:rgba(255,255,255,0.6);
+  background-blend-mode:lighten;
+  color: black;
+  min-height: 100vh;
+}
+
+.brazil{
+  background-color:rgba(255,255,255,0.7);
+  background-blend-mode:lighten;
+  color: black;
+  min-height: 100vh;
+}
+
+.title-common{
+  font-family: "DM Serif Display", sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: left;
+  padding-top: 110px;
+  margin: 0px 0px 30px 100px;
+}
+
+.text-common{
+  font-size: 25px;
+  line-height: 40px;
+  padding-top: 30px;
+  margin: 0px 100px 0px;
+}
+
+
+/* Fotter */
+footer{
+  background-color: rgb(201, 95, 20);
+  text-align: center;
+}
+
+.footer-text{
+  font-family: "DM Serif Display", sans-serif;
+  color: white;
+  font-size: 28px;
+  margin: 0px;
+  padding: 50px;
+}
+
+.button{
+  border: 1px solid white;
+  background-color:brown;
+  padding: 14px 28px;
+  font-size: 30px;
+  border-radius: 15px;
+  cursor: pointer;
+  margin: 0px auto 10px;
+  box-shadow: 2px 2px 4px white;
+}
+
+.button a{
+  text-decoration: none;
+  color:white; 
+}
+
+.button:hover{
+  border-bottom-color: transparent;
+  transform: translateY(3px);
+}
+
+
+/* Sources */
+.sources{
+  border: 1px solid black;
+  background-color:white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  margin: 5px auto 50px;
+}
+
+.sources a{
+  text-decoration: none;
+  color:black;
+}
+
+.sources:hover{
+  border-bottom-color: transparent;
+  transform: translateY(3px);
+}
+
+
+/* Images */
+.bg{
+  background-size: cover;
+  background-position: center;
+}
+.image1{
+  background-image: url(images/cupping.jpg);
+}
+
+.image2{
+  background-image: url(images/beans1.jpg);
+}
+
+.image3{
+  background-image: url(images/beans2.jpg);
+}
+
+.image4{
+  background-image: url(images/beans3.jpg);
+}
+
+
+/* For smaller devices */
+@media only screen and (max-width:767px){
+  
+  /* Header */
+  .header-text1{
+    font-size: 25px;
+    margin-top: 0px;
+    margin-left: 20px;
+  }
+  
+  .header-text2{
+    font-size: 20px;
+    margin-left: 25px;
+  }
+
+
+  /* Main */
+  .middle-text{
+    margin: 100px auto;
+    width: 86%;
+  }
+
+  .middle-text .br1::before, .br2::before{
+    content: "\A";
+    white-space: pre;
+  }
+
+  .title-common{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 50px;
+    margin-left: 50px;
+  }
+
+  .text-common{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 0px;
+    margin: 0px 50px 0px;
+  }
+}
+
+@media screen and (min-device-width : 320px) and (max-device-width : 500px){
+    .kilimanjaro, .blueMountain, .brazil{
+    padding-bottom: 50px;
+  }
+}
+

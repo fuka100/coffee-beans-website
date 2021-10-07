@@ -1,0 +1,77 @@
+@media only screen and (max-width:767px){
+  
+  /* Header */
+  .header-text1{
+    width: 100%;
+    color: white;
+    font-size: 25px;
+    margin: 120px auto 0px 20px;
+  }
+  
+  .header-text2{
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    margin: 0px 800px auto 60px;
+  }
+
+
+  /* Main */
+  .middle-text{
+    margin: 100px auto;
+    width: 80%;
+  }
+
+  .middle-text .br1::before{
+    content: "\A" ;
+    white-space: pre ;
+  }
+
+  .middle-text .br2::before{
+    content: "\A" ;
+    white-space: pre ;
+  }
+
+  .kilimanjaro-title{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 50px;
+    margin: 0px auto 0px 50px;
+  }
+  
+  .kilimanjaro-text{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 30px;
+    margin: 0px 50px 0px;
+  }
+
+  .blueMountain-title{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 50px;
+    margin: 0px auto 0px 50px;
+  }
+  
+  .blueMountain-text{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 30px;
+    margin: 0px 50px 0px;
+  }
+
+  .brazil-title{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 50px;
+    margin: 0px auto 0px 50px;
+  }
+  
+  .brazil-text{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 30px;
+    margin: 0px 50px 0px;
+  }
+  
+}
