@@ -5,7 +5,7 @@ Coffee beans website
 at OsloMet, autumn 2020.
 
 
-- You can find two website directories: "bio-coffee" and "bio-cofee-PostFeedback". 
+- You can find two directories: "bio-coffee" and "bio-cofee-PostFeedback". 
 The first one was built for practice of creating website that can be also showed on smaller devices, and it still has several areas for improvement.
 The second one was literally built post feedback. 
 
