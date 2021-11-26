@@ -1,7 +1,7 @@
 Coffee beans website
 =======
 
-- This is course assignment for [Web Development and Inclusive Design (DAFE1200)](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE1200/2020/H%C3%98ST) 
+- This is course assignment for [DAFE1200 - Web Development and Inclusive Design](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE1200/2020/H%C3%98ST) 
 at OsloMet, autumn 2020.
 
 ## Assignment details
