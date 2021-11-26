@@ -5,8 +5,8 @@ This is a course assignment for [DAFE1200 - Web Development and Inclusive Design
 at OsloMet, autumn 2020.
 
 ## Assignment details
-- Make a website in the «Project Cylinder» style, showing off 3-4 coffee styles / beans, 
-with a final page with a «order now» button taking you to a mock page.<br><br>
+- Make a website in the "Project Cylinder" style, showing off 3-4 coffee styles / beans, 
+with a final page with a "order now" button taking you to a mock page.<br><br>
 
 - Technical Requirements:
   - Developed mobile first, does not have to look good on desktop
