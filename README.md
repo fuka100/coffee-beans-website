@@ -4,10 +4,18 @@ Coffee beans website
 - This is course assignment for [Web Development and Inclusive Design (DAFE1200)](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAFE1200/2020/H%C3%98ST) 
 at OsloMet, autumn 2020.
 
+## Assignment details
+- Make a website in the «Project Cylinder» style, showing off 3-4 coffee styles / beans, 
+with a final page with a «order now» button taking you to a mock page.<br><br>
 
-- You can find two website files: "bio-coffee" and "bio-cofee-PostFeedback". 
-The first one was built forpractice of creating websites that can be also showed on smaller devices, and it has several areas for improvement.
-The second one was literally built post feedback. 
+- Technical Requirements:
+  - Developed mobile first, does not have to look good on desktop
+  - Each page would be a little bit taller than the height of the device
+  - There would be an opening page
+  - There would be main pages showing off coffee, with text over background images explaining in short, 
+    the unique attributes of the type of bean / roast
+  - Use creative commons images
+  - Have a sources page
 
 
 
